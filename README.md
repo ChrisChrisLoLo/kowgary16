@@ -12,3 +12,6 @@ This macropad is confirmed to work!
 
 # BOM
 BOM for pcb included in the `pcb` folder. You will additionally need 4 rubber feet, the aluminum CNC case, as well as 4x 4mm M2 screws
+
+# Acknowledgements
+Thank you [PCBWay](https://www.pcbway.com/) for sponsoring this project! It continues to impress me that I can use their services to make consumer grade enclosures. I've been going with their bead blasted anodized aluminum offerings with the premium finish option selected, and am continually thrilled by the quality. I only had to pay $48 USD to get the kowgary case manufactured, which is a fantastic price for a premium feeling macropad!
